@@ -1,8 +1,10 @@
 {
-    "name": "product-builder",
+    "name": "toggle-theme-tailwindcss",
     "private": true,
     "version": "0.0.0",
     "type": "module",
+    "author": "Mohamed Hashem",
+    "repository": "https://github.com/Mohamed-Hashem/toggle-theme-tailwindcss",
     "scripts": {
         "dev": "vite",
         "build": "tsc -b && vite build",
